@@ -1,0 +1,51 @@
+{
+    "1017782859605479424": {
+        "idpainel": "1017782859605479424",
+        "tipo": "select",
+        "desc": "Utilize o menu abaixo para abrir um novo ticket, especifique sua necessidade.",
+        "title": "Ticket | Polícia Militar Sul",
+        "placeholder": "Selecione uma opção...",
+        "select": [
+            {
+                "text": "Suporte",
+                "desc": "Opção destinada a assuntos em geral.",
+                "emoji": "📩",
+                "categoria": "1381857449979416677",
+                "id": 1,
+                "msg": {
+                    "mensagem": "",
+                    "sistema": "ON"
+                }
+            },
+            {
+                "text": "Alinhamento",
+                "desc": "Opção destianada aqueles que foram chamados em alinhamento.",
+                "emoji": "⛔",
+                "id": 2,
+                "msg": {
+                    "mensagem": "",
+                    "sistema": "ON"
+                },
+                "categoria": "1391493919396855908"
+            },
+            {
+                "text": "Denúncia",
+                "desc": "Opção destinada a denúncias em geral.",
+                "emoji": "🚨",
+                "id": 3,
+                "msg": {
+                    "mensagem": "",
+                    "sistema": "ON"
+                },
+                "categoria": "1391494021649797261"
+            }
+        ],
+        "idmsg": "1415464266798071910",
+        "idcanal": "1382129784309415986",
+        "modal": {
+            "assunto": "ON",
+            "desc": "OFF",
+            "finaliza": "ON"
+        }
+    }
+}

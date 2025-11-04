@@ -1,0 +1,25 @@
+{
+    "sugest": {
+        "certo": "✅",
+        "errado": "❌",
+        "sistema": "ON",
+        "channel": "1302018729009479762"
+    },
+    "ticket": {
+        "cargo_staff": "1390049107225084155",
+        "canal_logs": "1017266647075135538",
+        "canal_avalia": "1297912825246781581",
+        "categoria": "1017782859605479424"
+    },
+    "painel": {
+        "desc": ":bell: | Olá {user}! **Seja bem-vindo(a) ao seu ticket.**\n\n:zap: | Os **TICKETS** são totalmente privados, apenas Alto Escalão possuem acesso a este canal.\n\n:rotating_light: | Evite **MARCAÇÕES.** Aguarde até que um **Alto Escalão** te atenda.\n\n:man_police_officer: | Staff que assumiu o ticket {assumido}\n:envelope_with_arrow: | Motivo do Ticket: \n```{motivo}```\n\n⏰ | Horário de abertura: {horario1} ({horario2})",
+        "button": {
+            "sair": "<:1166960884220960788:1239447539489443894>",
+            "membro": "<:1166960974604017694:1225478267990048928>",
+            "staff": "<:suportee:1239447771858079795>",
+            "assumir": "<:coroa:1239447680292229120>",
+            "finalizar": "<:1166960963988230195:1239447625737048154>"
+        }
+    },
+    "color": "#1414b8"
+}
